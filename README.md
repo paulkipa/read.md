@@ -1,4 +1,4 @@
-## I'm [Hardik Savani!](https://www.salarixsolutions.com) 👋
+## I'm [Paul Kioi!](https://www.salarixsolutions.com) 👋
 
 <a href="https://twitter.com/paulkipa">
   <img align="left" alt="Paulkipa's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
